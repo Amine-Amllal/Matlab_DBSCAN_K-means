@@ -35,8 +35,5 @@ Group 2 - Matlab_Project.zip
 - MATLAB with AppDesigner support.
 - Required MATLAB toolboxes for clustering algorithms (if applicable).
 
-## Authors
-- Group 2
-
 ## License
 This project is for educational purposes. Feel free to modify and use it as needed.
