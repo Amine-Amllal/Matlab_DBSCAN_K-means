@@ -9,7 +9,6 @@ Group 2 - Matlab_Project.zip
 ├── Group 2_Presentation.pptx
 ├── Group 2_Report.pdf
 ├── Group 2_readme.txt
-│
 └── Code
     ├── application.mlapp
     ├── DBSCANClusteringApp.mlapp
